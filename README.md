@@ -1,5 +1,7 @@
 # 博客园
 [个人博客园](http://www.cnblogs.com/guotianbao/) 
+# 线上地址
+[ackblog个人博客](http://207.246.124.116:5050/)  
 # Windows7下安装运行  
 把ackblog文件下载下来  
 1. 打开cmd窗口输入：pip install virtualenv 创建虚拟环境（前提是你已经安装好pip）  
